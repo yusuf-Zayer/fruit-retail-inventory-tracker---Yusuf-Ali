@@ -5,3 +5,4 @@ you can add products, sell, filter by category, create discounts, get warnings a
 
 video link: https://youtu.be/Lea1MbfUrXc?si=cW6HuUp-1uyE6Q9Z
 
+streamlit community cloud link: https://fruit-retail-inventory-tracker---yusuf-ali-4eagnmx64hrorlqimum.streamlit.app/
