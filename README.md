@@ -1,8 +1,19 @@
-# fruit retail inventory tracker - Yusuf Ali
+# Fruit Retail Inventory Tracker - Yusuf Ali
 
-this app is a fruit inventory tracker
-you can add products, sell, filter by category, create discounts, get warnings and see the total value
+This app is a fruit inventory tracker
 
-video link: https://youtu.be/Lea1MbfUrXc?si=cW6HuUp-1uyE6Q9Z
+features:
+
+* Add and Sell products
+* filter by category
+* create discounts
+* see total inventory value
+* get warning for low stock items
+* see total inventory
+* input verification tests
+* csv upload and download
+
+
+video demonstration link: https://youtu.be/Lea1MbfUrXc?si=cW6HuUp-1uyE6Q9Z
 
 streamlit community cloud link: https://fruit-retail-inventory-tracker---yusuf-ali-4eagnmx64hrorlqimum.streamlit.app/
